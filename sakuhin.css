@@ -8,6 +8,9 @@ header {
 .main {
 	position:relative ;
 }
+.slider  {
+	text-align : center
+}
 
 h2 {
 	font-size: 130px;
