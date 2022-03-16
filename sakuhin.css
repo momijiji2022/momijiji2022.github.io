@@ -9,7 +9,9 @@ header {
 	position:relative ;
 }
 .slider img {
-	width:100vw;
+	width:885px;
+	height:497.56px;
+	object-fit:cover;
 		
 }
 
