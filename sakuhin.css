@@ -8,9 +8,8 @@ header {
 .main {
 	position:relative ;
 }
-.slider {
-	width:1100px
-　　　　　　　　　　　　　　　　margin:0 auto;
+.slider img {
+	width:100%;
 		
 }
 
