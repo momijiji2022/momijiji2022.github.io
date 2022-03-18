@@ -8,11 +8,10 @@ header {
 .main {
 	position:relative ;
 }
-.main-containar  {
+.main {
 	
 	background-image:url(IMG_03011.png);
 	background-size:cover;
-		
 }
 
 h2 {
