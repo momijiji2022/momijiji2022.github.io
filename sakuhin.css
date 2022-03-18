@@ -8,9 +8,9 @@ header {
 .main {
 	position:relative ;
 }
-.slider img {
+.main-containar  {
 	
-	object-fit:cover;
+	background-image:url(03011.png);
 		
 }
 
